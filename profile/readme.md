@@ -2,7 +2,7 @@
 
 # Hey, we're Acrontum
 
-We're Just an international bunch of people who love what we do, and where we do it.
+We're just an international bunch of people who love what we do, and where we do it.
 
 
 ## Say hi
@@ -78,4 +78,35 @@ Strict typescript + prettier + eslint.
 </a>
 <a href="https://www.npmjs.com/package/@acrontum/eslint-config">
   <img src="https://img.shields.io/badge/eslint%20config-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+
+---
+
+Also check out our partner projects:
+
+
+### generate-it
+
+OpenAPI codegen tooling for documentation-driven-development.
+
+<a href="https://github.com/acr-lfr/generate-it">
+  <img src="https://img.shields.io/badge/generate%20it-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com/package/generate-it">
+  <img src="https://img.shields.io/badge/generate%20it-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<br/>
+<a href="https://github.com/acr-lfr/generate-it-typescript-server">
+  <img src="https://img.shields.io/badge/generate%20it%20typescript%20server-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### boats
+
+An OpenAPI & AsyncAPI templating system with Nunjucks.
+
+<a href="https://github.com/johndcarmichael/boats">
+  <img src="https://img.shields.io/badge/boats-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com/package/boats">
+  <img src="https://img.shields.io/badge/boats-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
